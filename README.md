@@ -55,5 +55,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
