@@ -33,12 +33,11 @@ import {
 	sliders04,
 	telegram,
 	twitter,
-	techStackLogos0,
-	techStackLogos1,
-	techStackLogos2,
-	techStackLogos3,
-	techStackLogos4,
-	techStackLogos5,
+	BrandSauceLogo,
+	Pilgrim,
+	BoatBotAi,
+	GogoRev,
+	Flywheel,
 } from '../assets';
 
 export const navigation = [
@@ -64,18 +63,17 @@ export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
 export const notificationImages = [notification4, notification3, notification2];
 
 export const companyLogos = [
-	techStackLogos0,
-	techStackLogos1,
-	techStackLogos2,
-	techStackLogos3,
-	techStackLogos4,
-	techStackLogos5,
+	BrandSauceLogo,
+	GogoRev,
+	BoatBotAi,
+	Flywheel,
+	Pilgrim,
 ];
 
 export const brainwaveServices = [
-	'Photo generating',
-	'Photo enhance',
-	'Seamless Integration',
+	'B2B & B2C Solutions',
+	'SAAS Software',
+	'AI & Machine Learning',
 ];
 
 export const brainwaveServicesIcons = [

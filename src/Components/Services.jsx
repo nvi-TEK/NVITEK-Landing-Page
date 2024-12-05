@@ -48,7 +48,7 @@ const Services = () => {
             <div className="relative z-1 max-w-[17rem] ml-auto">
               <h4 className="mb-4 h4">Software Development</h4>
               <p className="body-2 mb-[3rem] text-n-3">
-                Brainwave unlocks the potential of AI-powered applications
+                Solutions that streamline repetitive tasks and enhance workflow.
               </p>
               <ul className="body-2">
                 {brainwaveServices.map((item, index) => (
@@ -81,8 +81,7 @@ const Services = () => {
               <div className="absolute inset-0 flex flex-col justify-end p-8 bg-gradient-to-b from-n-8/0 to-n-8/90 lg:p-15">
                 <h4 className="mb-4 h4">IT Consulting</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
-                  Automatically enhance your photos using our AI app&apos;s
-                  photo editing feature. Try it now!
+                From strengthening your <span className="font-bold">Cybersecurity</span> framework to unlocking insights with advanced <span className="font-bold">Data Analytics</span>. Leverage on strategic guidance from our team of experts.
                 </p>
               </div>
 
