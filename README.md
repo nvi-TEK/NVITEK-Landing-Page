@@ -14,7 +14,15 @@
 
 
 ## <a name="tech-stack">⚙️ Our Tech Stack</a>
-
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [React]
+- [Typescript]
+- [PHP]
+- [Next.js]
+- [C#]
+- [Python]
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -24,9 +32,6 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
 
 **Cloning the Repository**
 
@@ -50,5 +55,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">

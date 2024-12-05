@@ -38,7 +38,7 @@ const Header = () => {
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
         <a className="flex items-center w-[12rem] xl:mr-8" href="#hero">
           <img src={nvitekLogo} className="h-12" alt="Logo of Nvitek" />
-          <h1 className="text-3xl font-bold h2 text-n-1">NVITEK</h1>
+          <h1 className="text-3xl font-bold text-transparent h2 text-n-1 bg-conic-gradient bg-clip-text">nvi-TEK</h1>
         </a>
 
         <nav
