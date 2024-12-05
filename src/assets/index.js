@@ -1,4 +1,9 @@
 import nvitekLogo from './NVITEK-logo-no-bg.svg';
+import BrandSauceLogo from './svg/tech stack/BrandSauce-Marketing-Technologies.svg';
+import GogoRev from './svg/tech stack/GOGOREV.svg';
+import BoatBotAi from './svg/tech stack/BoatBot Review.svg';
+import Flywheel from './svg/tech stack/Flywheel.svg';
+import Pilgrim from './svg/tech stack/Pilgrim.png';
 import brainwave from './brainwave.svg';
 import check from './check.svg';
 import brainwaveSymbol from './brainwave-symbol.svg';
@@ -82,6 +87,11 @@ import techStackLogos3 from '../assets/svg/tech stack/Tech Stack Logos-3.svg';
 import techStackLogos4 from '../assets/svg/tech stack/Tech Stack Logos-4.svg';
 import techStackLogos5 from '../assets/svg/tech stack/Tech Stack Logos-7.svg';
 export {
+	Pilgrim,
+	Flywheel,
+	GogoRev,
+	BoatBotAi,
+	BrandSauceLogo,
 	nvitekLogo,
 	brainwave,
 	check,

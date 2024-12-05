@@ -36,7 +36,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="max-w-3xl mx-auto mb-6 body-1 text-n-2 lg:mb-8">
-          At nvi-TEK blend creativity and expertise to deliver cutting-edge software, AI, and embedded system solutions.
+          At nvi-TEK, we blend creativity and expertise to deliver cutting-edge software, AI, and embedded system solutions.
           </p>
           <Button href="#features" white>
             Learn More
@@ -50,13 +50,13 @@ const Hero = () => {
               <div className="aspect-[33/40] rounded-b-[0.9rem] overflow-hidden md:aspect-[688/490] lg:aspect-[1024/490]">
                 <img
                   src={robot}
-                  className="w-full scale-[1.7] translate-y-[8%] md:scale-[1] md:-translate-y-[10%] lg:-translate-y-[23%]"
+                  className="w-full scale-[1.7] translate-y-[8%] md:scale-[1] md:-translate-y-[10%] lg:-translate-y-[35%]"
                   width={1024}
                   height={490}
                   alt="AI"
                 />
 
-                <Generating className="absolute left-4 right-4 bottom-5 md:left-1/2 md:right-auto md:bottom-8 md:w-[31rem] md:-translate-x-1/2" />
+                <Generating className="absolute left-4 right-4 bottom-5 md:left-1/2 md:right-auto md:bottom-8 md:w-[31rem] md:-translate-x-1/2" >Innovation is coming</Generating>
 
                 <ScrollParallax isAbsolutelyPositioned>
                   <ul className="hidden absolute -left-[5.5rem] bottom-[7.5rem] px-1 py-1 bg-n-9/40 backdrop-blur border border-n-1/10 rounded-2xl xl:flex">
@@ -71,7 +71,7 @@ const Hero = () => {
                 <ScrollParallax isAbsolutelyPositioned>
                   <Notification
                     className="hidden absolute -right-[5.5rem] bottom-[11rem] w-[18rem] xl:flex"
-                    title="Code generation"
+                    title="Collaboration"
                   />
                 </ScrollParallax>
               </div>
