@@ -43,16 +43,16 @@ import {
 export const navigation = [
 	{
 		id: '0',
+		title: 'Home',
+		url: '#hero',
+	},
+	{
+		id: '1',
 		title: 'About Us',
 		url: '#features',
 	},
 	{
-		id: '1',
-		title: 'Our Core Values',
-		url: '#coreValues',
-	},
-	{
-		id: '3',
+		id: '2',
 		title: 'Services',
 		url: '#services',
 	},
