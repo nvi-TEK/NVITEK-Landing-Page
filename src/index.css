@@ -19,7 +19,7 @@
 
 @layer base {
   body {
-    @apply font-sans bg-n-8 text-n-1 text-base;
+    @apply font-sans text-base bg-n-8 text-n-1;
   }
 }
 
@@ -85,4 +85,10 @@
 
 .-rotate-360 {
   @apply rotate-[-360deg]
+}
+
+.code-editor-mockup {
+  background: #1e1e1e;
+  border-radius: 8px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
 }

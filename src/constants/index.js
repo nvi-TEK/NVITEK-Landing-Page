@@ -146,10 +146,6 @@ export const collabContent = [
 		title: 'Our Mission',
 		text: ourMissionText,
 	},
-	{
-		id: '2',
-		title: 'Top-notch Security',
-	},
 ];
 
 export const collabApps = [

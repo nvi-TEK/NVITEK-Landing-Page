@@ -36,7 +36,7 @@ const Roadmap = () => (
                   <div className="flex items-center justify-between max-w-[27rem] mb-8 md:mb-20">
                     <Tagline>{item.date}</Tagline>
 
-                    <div className="flex items-center px-4 py-1 bg-n-1 rounded text-n-8">
+                    <div className="flex items-center px-4 py-1 rounded bg-n-1 text-n-8">
                       <img
                         className="mr-2.5"
                         src={item.status === "done" ? check2 : loading1}
@@ -57,7 +57,7 @@ const Roadmap = () => (
                       alt={item.title}
                     />
                   </div>
-                  <h4 className="h4 mb-4">{item.title}</h4>
+                  <h4 className="mb-4 h4">{item.title}</h4>
                   <p className="body-2 text-n-4">{item.text}</p>
                 </div>
               </div>
@@ -66,10 +66,6 @@ const Roadmap = () => (
         })}
 
         <Gradient />
-      </div>
-
-      <div className="flex justify-center mt-12 md:mt-15 xl:mt-20">
-        <Button href="/roadmap">Our roadmap</Button>
       </div>
     </div>
   </Section>
