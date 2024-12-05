@@ -33,7 +33,12 @@ import {
 	sliders04,
 	telegram,
 	twitter,
-	yourlogo,
+	techStackLogos0,
+	techStackLogos1,
+	techStackLogos2,
+	techStackLogos3,
+	techStackLogos4,
+	techStackLogos5,
 } from '../assets';
 
 export const navigation = [
@@ -44,40 +49,13 @@ export const navigation = [
 	},
 	{
 		id: '1',
-		title: 'Our Mission',
-		url: '#pricing',
-	},
-	{
-		id: '2',
-		title: 'How to use',
-		url: '#how-to-use',
-	},
-	{
-		id: '3',
-		title: 'Our Vision',
-		url: '#roadmap',
-	},
-	{
-		id: '4',
 		title: 'Our Core Values',
 		url: '#coreValues',
 	},
 	{
-		id: '5',
+		id: '3',
 		title: 'Services',
 		url: '#services',
-	},
-	{
-		id: '6',
-		title: 'New account',
-		url: '#signup',
-		onlyMobile: true,
-	},
-	{
-		id: '7',
-		title: 'Sign in',
-		url: '#login',
-		onlyMobile: true,
 	},
 ];
 
@@ -85,7 +63,14 @@ export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
 
 export const notificationImages = [notification4, notification3, notification2];
 
-export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
+export const companyLogos = [
+	techStackLogos0,
+	techStackLogos1,
+	techStackLogos2,
+	techStackLogos3,
+	techStackLogos4,
+	techStackLogos5,
+];
 
 export const brainwaveServices = [
 	'Photo generating',
@@ -141,18 +126,25 @@ export const roadmap = [
 	},
 ];
 
-export const collabText =
-	"With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+export const whoWeAreText =
+	'A Tech & Engineering firm that provides comprehensive solutions to modern problems with a business focus.';
+
+export const ourMissionText =
+	'Provide an ecosystem that empowers businesses to reinvent how their services are delivered to their customers.';
+
+export const collabText2 =
+	'Our expertise stems from years of experience in the field, ensuring that we provide a cutting-edge solution for your business.';
 
 export const collabContent = [
 	{
 		id: '0',
-		title: 'Seamless Integration',
-		text: collabText,
+		title: 'Who we are',
+		text: whoWeAreText,
 	},
 	{
 		id: '1',
-		title: 'Smart Automation',
+		title: 'Our Mission',
+		text: ourMissionText,
 	},
 	{
 		id: '2',

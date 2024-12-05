@@ -9,7 +9,6 @@ import smallSphere from './4-small.png';
 import grid from './grid.png';
 import check2 from './check-02.svg';
 import loading1 from './loading-01.svg';
-import yourlogo from './yourlogo.svg';
 import homeSmile from './home-smile.svg';
 import file02 from './file-02.svg';
 import searchMd from './search-md.svg';
@@ -76,6 +75,12 @@ import instagram from './socials/instagram.svg';
 import telegram from './socials/telegram.svg';
 import twitter from './socials/twitter.svg';
 
+import techStackLogos0 from '../assets/svg/tech stack/Tech Stack Logos.svg';
+import techStackLogos1 from '../assets/svg/tech stack/Tech Stack Logos-6.svg';
+import techStackLogos2 from '../assets/svg/tech stack/Tech Stack Logos-2.svg';
+import techStackLogos3 from '../assets/svg/tech stack/Tech Stack Logos-3.svg';
+import techStackLogos4 from '../assets/svg/tech stack/Tech Stack Logos-4.svg';
+import techStackLogos5 from '../assets/svg/tech stack/Tech Stack Logos-7.svg';
 export {
 	nvitekLogo,
 	brainwave,
@@ -88,7 +93,6 @@ export {
 	gradient,
 	smallSphere,
 	grid,
-	yourlogo,
 	homeSmile,
 	file02,
 	searchMd,
@@ -146,4 +150,10 @@ export {
 	instagram,
 	telegram,
 	twitter,
+	techStackLogos0,
+	techStackLogos1,
+	techStackLogos2,
+	techStackLogos3,
+	techStackLogos4,
+	techStackLogos5,
 };

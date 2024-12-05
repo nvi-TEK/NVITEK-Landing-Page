@@ -23,9 +23,9 @@ const Hero = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="mb-6 h1">
-            Explore the Possibilities of&nbsp;AI&nbsp;Chatting with {` `}
+            Empowering Innovation &nbsp;Redefining&nbsp;{` `}
             <span className="relative inline-block">
-              Brainwave{" "}
+              Possibilities{" "}
               <img
                 src={curve}
                 className="absolute left-0 w-full top-full xl:-mt-2"
@@ -36,8 +36,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="max-w-3xl mx-auto mb-6 body-1 text-n-2 lg:mb-8">
-            Unleash the power of AI within Brainwave. Upgrade your productivity
-            with Brainwave, the open AI chat app.
+          At nvi-TEK blend creativity and expertise to deliver cutting-edge software, AI, and embedded system solutions.
           </p>
           <Button href="#features" white>
             Learn More
