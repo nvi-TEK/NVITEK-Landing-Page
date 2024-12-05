@@ -4,7 +4,6 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import CompanyMantra from "./components/CompanyMantra";
-import Roadmap from "./components/Roadmap";
 import Services from "./components/Services";
 
 const App = () => {
@@ -16,7 +15,6 @@ const App = () => {
         <Collaboration />
         <CompanyMantra/>
         <Services />
-        <Roadmap />
         <Footer />
       </div>
 

@@ -6,7 +6,6 @@ import { brainwaveServices, brainwaveServicesIcons } from "../constants";
 import {
   PhotoChatMessage,
   Gradient,
-  VideoBar,
   VideoChatMessage,
 } from "./design/Services";
 
@@ -63,7 +62,7 @@ const Services = () => {
               </ul>
             </div>
 
-            <Generating className="absolute border left-4 right-4 bottom-4 border-n-1/10 lg:left-1/2 lg-right-auto lg:bottom-8 lg:-translate-x-1/2" />
+            <Generating className="absolute border left-4 right-4 bottom-4 border-n-1/10 lg:left-1/2 lg-right-auto lg:bottom-8 lg:-translate-x-1/2">Transforming Ideas into Digital Reality</Generating>
           </div>
 
           <div className="relative grid gap-5 z-1 lg:grid-cols-2">
@@ -92,8 +91,7 @@ const Services = () => {
               <div className="px-4 py-12 xl:px-8">
                 <h4 className="mb-4 h4">Web & Mobile App Design</h4>
                 <p className="body-2 mb-[2rem] text-n-3">
-                  The world’s most powerful AI photo and video art generation
-                  engine. What will you create?
+                  Crafting unique and user-friendly interfaces that captivate your customers and drive engagement.
                 </p>
 
                 <ul className="flex items-center justify-between">
@@ -130,7 +128,6 @@ const Services = () => {
                 />
 
                 <VideoChatMessage />
-                <VideoBar />
               </div>
             </div>
           </div>
